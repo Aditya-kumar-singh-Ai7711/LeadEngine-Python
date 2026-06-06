@@ -1,0 +1,9 @@
+pandas
+requests
+beautifulsoup4
+cloudscraper
+openpyxl
+python-dotenv
+lxml
+selenium
+webdriver-manager
